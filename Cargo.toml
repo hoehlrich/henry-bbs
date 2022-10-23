@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 bracket-lib = { git = "https://github.com/amethyst/bracket-lib.git" }
+chrono = "0.4.22"
+winit = "0.27.4"
